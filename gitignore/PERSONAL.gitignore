@@ -1,1 +1,28 @@
+# Data & dumps  
+*.xlsx
+*.xls
+*.xlsb
+*.csv
+*.zip
+*.gz
+*.rar
+*.parquet
+*.feather
+*.db
+*.sqlite
+*.json
+*.bak
+*.tmp
 
+# Virtual envs
+venv/
+.env
+.env.*
+__pycache__/
+
+# IA e modelos
+*.model
+*.pth
+*.h5
+*.onnx
+*.ckpt
